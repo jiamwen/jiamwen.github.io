@@ -20,7 +20,7 @@
       My general research interests cover algebra, number theory and cryptology. I will share some notes from books I read and my publications on this homepage in the future.
       </p>
       <p>
-      If you have any questions about contents on this website, do not hesitate to contact me via Email.
+      If you have any questions about contents on this website, do not hesitate to contact me via Email.<br>
       My Email: wenjm [at] whu [dot] edu [dot] cn
       </p>
       
