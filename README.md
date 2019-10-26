@@ -5,13 +5,20 @@
 <h1> Welcome to Jiaming WEN's Home Page! </h1>
 
 <table style="width:60%">
-  
+ 
+ 
+ 
+      <h2><font face="Arial"> About me </font></h2>   
+
       <p>
          Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics at Wuhan University. And I will be a first-year academic master student in School of Cyber Science and Engineering, Wuhan University, advised by Prof Debiao He since next autumn.
       </p>
       <p>
       My general research interests cover algebra, number theory and cryptology.
       </p>
+      
+      
+      
       <h2><font face="Arial"> Publications </font></h2>   
   
   
