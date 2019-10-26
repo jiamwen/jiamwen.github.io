@@ -29,7 +29,13 @@
       </p>
       
       <h2><font face="Arial"> Notes </font></h2>   
-      <br><br><br>
+      <br>
+      <p>Algebra</p>
+      <p><a href="/notes-intro.pdf">Intro</a></p>
+      <p><a href="/notes-group.pdf">Group</a></p>
+      <p><a href="/notes-ringandfield.pdf">Ring and Field</a></p>
+      <p><a href="/notes-lattice.pdf">Lattice</a></p>
+      <p><a href="/notes-finitefield.pdf">Finite Field</a></p>
       <h2><font face="Arial"> Publications </font></h2>   
   
       <br><br><br><br><br>
