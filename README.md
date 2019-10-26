@@ -4,7 +4,7 @@
 
 <h1> Welcome to Jiaming WEN's Home Page! </h1>
 
-<table style="width:50%">
+<table style="width:60%">
   
       <p>
          Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics at Wuhan University. And I will be a first-year academic master student in School of Cyber Science and Engineering, Wuhan University, advised by Prof Debiao He since next autumn.
