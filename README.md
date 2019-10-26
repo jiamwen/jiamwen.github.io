@@ -21,12 +21,11 @@
       </p>
       
       
-      
+      <h2><font face="Arial"> Notes </font></h2>   
+
       <h2><font face="Arial"> Publications </font></h2>   
   
-  
 
-     <br\><br\><br\><br\><br\><br\>
 <div id="footer">
 	<div id="footer-text">
           <p>
