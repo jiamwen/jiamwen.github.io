@@ -17,12 +17,6 @@
   
   </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p> &copy; Jiaming Wen | Last updated: 10/26/2019</p>
-      </footer>
 
 <div id="footer">
 	<div id="footer-text">
@@ -31,8 +25,5 @@
               
               &copy; Jiaming Wen | Last updated: 10/26/2019
             
-            </center>
-          </p>
-	</div>
-</div>
+            
 
