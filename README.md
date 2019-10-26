@@ -19,7 +19,7 @@
       </p>
       <p>
          Hi, I'm Jiaming Wen (文嘉明), a last-year undergraduate student in Mathematical Base Class, School of Mathematics and Statistics(MATHS), Wuhan University. Next autumn, I will become a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University, advised by Prof Debiao He.
-      <h3 id="advisor"><a href="http://cse.whu.edu.cn/index.php?s=/home/szdw/detail/id/77.html">advisor</a></h3>
+      <h3 id="advisor"><a href="http://cse.whu.edu.cn/index.php?s=/home/szdw/detail/id/77.html">advisors</a></h3>
       </p>
       <p>
       My general research interests cover algebra, number theory and cryptology. I will share some notes from books I read and my publications on this homepage in the future.
