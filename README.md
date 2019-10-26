@@ -7,7 +7,7 @@
 <h3><font face="Arial"> Welcome to Jiaming WEN's Home Page! </font></h3> 
 	
 
-<table style="width:60%">
+<table style="width:80%">
  
  
  
