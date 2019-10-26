@@ -10,7 +10,7 @@
          Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics at Wuhan University. And I will be a first-year academic master student in School of Cyber Science and Engineering, Wuhan University, advised by Prof Debiao He since next autumn.
       </p>
       <p>
-      My general research interests cover number theory and cryptology,algebra.
+      My general research interests cover algebra, number theory and cryptology.
       </p>
       <h2><font face="Arial"> Publications </font></h2>   
   
@@ -24,5 +24,15 @@
         <p> &copy; Jiaming Wen | Last updated: 10/26/2019</p>
       </footer>
 
-
+<div id="footer">
+	<div id="footer-text">
+          <p>
+            <center><font face="Arial">
+              
+              &copy; Jiaming Wen | Last updated: 10/26/2019
+            
+            </center>
+          </p>
+	</div>
+</div>
 
