@@ -23,7 +23,6 @@
         
         <p> &copy; Jiaming Wen | Last updated: 10/26/2019</p>
       </footer>
-    </div>
 
-    
-  </body>
+
+
