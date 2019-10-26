@@ -30,7 +30,7 @@
       
       <h2><font face="Arial"> Notes </font></h2>   
       <br>
-      <p>Algebra</p>
+      <p><a href="/notes-algebra.pdf">Algebra</a></p>
       <p><a href="/notes-intro.pdf">Intro</a></p>
       <p><a href="/notes-group.pdf">Group</a></p>
       <p><a href="/notes-ringandfield.pdf">Ring and Field</a></p>
