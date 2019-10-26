@@ -7,7 +7,7 @@
 <table style="width:50%">
   
       <p>
-         Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics at Wuhan University. I will be a first-year academic master student in School of Cyber Science and Engineering advised by Prof Debiao He next year. My general research interests cover algebra and number theory, cryptology.
+         Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics at Wuhan University. I will be a first-year academic master student in School of Cyber Science and Engineering, advised by Prof Debiao He next year. My general research interests cover number theory and cryptology,algebra.
 
       </p>
       
