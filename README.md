@@ -13,7 +13,9 @@
  
       <h2><font face="Arial"> About me </font></h2>   
       <p>
-      ![failed](https://github.com/jiamwen/jiamwen.github.io/blob/master/wjm.jpg)
+		<a href="http://www.github.com/jiamwen">
+                  <img src="./wjm.jpg" height="30px" style="margin-bottom:-3px"/>
+                </a>
       </p>
       <p>
          Hi, I'm Jiaming Wen (文嘉明), a last-year undergraduate student in Mathematical Base Class, School of Mathematics and Statistics(MATHS), Wuhan University. Next autumn, I will become a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University, advised by Prof Debiao He.
