@@ -5,8 +5,9 @@
 
 	<p> 
 	<center><font face="Arial">
-	Welcome to Jiaming WEN's Home Page! 
-	</p>
+	Welcome to Jiaming WEN's Home Page!
+	<\center>
+	
 
 <table style="width:60%">
  
