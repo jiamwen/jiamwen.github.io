@@ -24,14 +24,10 @@
           <p>
             <center><font face="Arial">
               <br/>
-              <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=notuMmjZmmmqgGr27ELZx5OsJzDyX5EM5xhYhsafATk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'>
               </script>
-              &copy; Xiaoping Zhang | Last updated: 11/13/2018
+              &copy; Jiaming Wen | Last updated: 10/26/2019
               </font>
             </center>
           </p>
 	</div>
       </div>
-	</div>
-      </body>
-    </html>
