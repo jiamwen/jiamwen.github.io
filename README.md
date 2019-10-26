@@ -14,7 +14,7 @@
       <h2><font face="Arial"> About me </font></h2>   
       <p>
 		<a href="http://www.github.com/jiamwen">
-                  <img src="./me.png" height="10000px" style="margin-bottom:-3px"/>
+                  <img src="./me.png" height="1000px" style="margin-bottom:-3px"/>
                 </a>
       </p>
       <p>
