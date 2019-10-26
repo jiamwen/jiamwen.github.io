@@ -1,81 +1,84 @@
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<link rel="stylesheet" type="text/css" href="rcstyle3.css" media="screen"/>
-<title>Hi</title>
+<html lang="en-US">
 
-</head>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="Jie DU (杜洁) : Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University">
 
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=96862015bd0bce78025afb621a3c54b91aec2ba8">
 
-<body>
-<!-- The top most two blocks are here. -->
-<div class="top">
-  <div class="header">
-    <div class="left"> Hao Yin's Personal Webpage </div>
-    <div class="right">
-      <h2>Hao Yin's Personal Webpage</h2>
-      <p>School of Mathematical Sciences, USTC, Hefei, China</p>
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Jie DU (杜洁) | Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Jie DU (杜洁)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University" />
+<meta property="og:description" content="Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University" />
+<link rel="canonical" href="https://jiedu16.github.io/" />
+<meta property="og:url" content="https://jiedu16.github.io/" />
+<meta property="og:site_name" content="Jie DU (杜洁)" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://jiedu16.github.io/","headline":"Jie DU (杜洁)","name":"Jie DU (杜洁)","description":"Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <!-- <a id="forkme_banner" href="https://github.com/JieDU16/JieDU16.github.io">View on GitHub</a> -->
+
+          <h1 id="project_title">Jie DU (杜洁)</h1>
+          <h2 id="project_tagline">Assistant Professor／Yau Mathematical Sciences Center／Tsinghua University</h2>
+
+          
+        </header>
     </div>
-  </div>
-</div>
 
-<!-- The following the nevigation bar -->
-<div class="container">
-  <script src="inc.js"></script>
-  
-  <!-- main content like a blog -->
-  <div class="main">
-    <div class="content">
-    <h1>Published Papers:</h1>
-    <li>Liu, Lei ;  <strong>Yin, Hao</strong> . Neck analysis for biharmonic maps.
- Math. Z.  283  (2016),  no. 3-4, 807--834.</li>
- <li>Liu, Lei ;  <strong>Yin, Hao</strong> . On the finite time blow-up of biharmonic map flow in dimension
- four.
- J. Elliptic Parabol. Equ.  1  (2015), 363--385.</li>
- <li>Hong, Min-Chun ;  Tian, Gang ; <strong> Yin, Hao</strong> . The Yang-Mills α-flow in vector bundles over four manifolds and
- its applications.
- Comment. Math. Helv.  90  (2015),  no. 1, 75--120.</li>
- <li>Hong, Min-Chun ;  <strong>Yin, Hao</strong> . On the Sacks-Uhlenbeck flow of Riemannian surfaces.
- Comm. Anal. Geom.  21  (2013),  no. 5, 917--955.</li>
- <li>Hong, Min-Chun ;  <strong>Yin, Hao</strong> . Partial regularity of a minimizer of the relaxed energy for biharmonic
- maps.
- J. Funct. Anal.  262  (2012),  no. 2, 681--718.</li>
- <li>Giaquinta, Mariano ;  Hong, Min-Chun ;  <strong>Yin, Hao</strong> . A new approximation of relaxed energies for harmonic maps and the
- Faddeev model.
- Calc. Var. Partial Differential Equations  41  (2011),  no. 1-2, 45--69.</li>
- <li><strong>Yin, Hao</strong> . Ricci flow on surfaces with conical singularities.
- J. Geom. Anal.  20  (2010),  no. 4, 970--995.</li>
- <li>Li, Haozhao ;  <strong>Yin, Hao</strong> . On stability of the hyperbolic space form under the normalized Ricci
- flow.
- Int. Math. Res. Not. IMRN  2010,  no. 15, 2903--2924.</li>
- <li><strong>Yin, Hao</strong> . Normalized Ricci flow on nonparabolic surfaces.
- Ann. Global Anal. Geom.  36  (2009),  no. 1, 81--104.</li>
- <li><strong>Yin, Hao</strong> . Boundary regularity of harmonic maps from hyperbolic space into
- nonpositively curved manifolds.
- Pacific J. Math.  232  (2007),  no. 2, 491--509.</li>
- <li><strong>Yin, Hao</strong> . Periodic solutions of Schrödinger flow from S3 to S2.
- Chinese Ann. Math. Ser. B  27  (2006),  no. 4, 401--410.</li>
- <li>Ding, Weiyue ;  <strong>Yin, Hao</strong> . Special periodic solutions of Schrödinger flow.
- Math. Z.  253  (2006),  no. 3, 555--570.</li>
- 
- 
-    <h1>Preprints:</h1>
-    <li>arXiv:1609.03111 Expansion formula for complex Monge-Ampère equation along cone singularities. Hao Yin, Kai Zheng. math.AP (math.DG).</li>
-    <li>arXiv:1606.07877 Rate of curvature decay for the contracting cusp Ricci flow. Peter M. Topping, Hao Yin. math.DG (math.AP).</li>
-    <li>arXiv:1605.08836 Analysis aspects of Ricci flow on conical surfaces. Hao Yin. math.AP (math.DG).</li>
-    <li>arXiv:1512.04980 Sharp decay estimates for the logarithmic fast diffusion equation and the Ricci flow on surfaces. Peter M. Topping, Hao Yin. math.AP (math.DG).</li>
-    
-    <h1>Funding</h1>
-    <li>NSFC No.11101272 Yang-Mills flow and Ricci flow with conical singularities</li>
-    <li>NSFC No.10826087 On certain problems about Ricci flow on noncompact manifolds</li>
-    <li>NSFC No.11471300 Research on the asymptotics of some geometric evolution equations</li>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p><img src="/jdu.JPG" alt="Image" /></p>
+
+<p><a href="/CV.pdf">Curriculum Vitae</a></p>
+
+<p><strong>E-mail:</strong> jdu@tsinghua.edu.cn</p>
+
+<p><strong>Address:</strong> Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China</p>
+
+<h3 id="research-interests">Research Interests</h3>
+<ol>
+  <li>Numerical solutions for PDEs using:
+    <ul>
+      <li>Finite element discontinuous Galerkin (DG) methods</li>
+      <li>Finite difference weighted essentially non-oscillatory (WENO) methods</li>
+      <li>Correction procedure via reconstruction (CPR) methods</li>
+    </ul>
+  </li>
+  <li>High order numerical methods on point clouds.</li>
+  <li>Modeling and numerical simulations for traffic flow problems.</li>
+  <li>Computational fluid dynamics.</li>
+</ol>
+
+<h3 id="publications"><a href="/publications.html">Publications</a></h3>
+
+<h3 id="teaching"><a href="/teaching.html">Teaching</a></h3>
+
+
+      </section>
     </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
     
-    <!-- side navigation -->
-<script src="side.js"></script>
-    <div class="clearer"><span></span></div>
-  </div>
-  <div class="footer">&copy; 2006 <a href="#">Website.com</a>. Valid <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> &amp; <a href="http://validator.w3.org/check?uri=referer">XHTML</a>. Template design by <a href="http://arcsin.se">Arcsin</a> </div>
-</div>
-</body>
+  </body>
 </html>
