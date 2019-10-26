@@ -11,7 +11,7 @@
       <h2><font face="Arial"> About me </font></h2>   
 
       <p>
-         Hi, I'm Jiaming Wen (文嘉明), a last-year undergradutate in Mathematical Base Class, School of Mathematics and Statistics(MATHS) at Wuhan University. And I will be a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University, advised by Prof Debiao He since next autumn.
+         Hi, I'm Jiaming Wen (文嘉明), a last-year undergraduate student in Mathematical Base Class, School of Mathematics and Statistics(MATHS) at Wuhan University. And I will be a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University, advised by Prof Debiao He since next autumn.
       </p>
       <p>
       My general research interests cover algebra, number theory and cryptology.
