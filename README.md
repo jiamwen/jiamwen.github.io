@@ -15,13 +15,12 @@
       <h2><font face="Arial"> Publications </font></h2>   
   
   
-  </div>
 
 
 <div id="footer">
 	<div id="footer-text">
           <p>
-            <center><font face="Arial">
+            <font face="Arial">
               
               &copy; Jiaming Wen | Last updated: 10/26/2019
             
