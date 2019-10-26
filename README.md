@@ -20,14 +20,14 @@
       My general research interests cover algebra, number theory and cryptology. I will share some notes from books I read and my publications on this homepage in the future.
       </p>
       <p>
-      Email: wenjm [at] whu [dot] edu [dot] cn
+      <b>Email: wenjm [at] whu [dot] edu [dot] cn
       </p>
       
       <h2><font face="Arial"> Notes </font></h2>   
-
+      <br><br><br>
       <h2><font face="Arial"> Publications </font></h2>   
   
-      <br><br><br><br>
+      <br><br><br><br><br>
 
 <div id="footer">
 	<div id="footer-text">
