@@ -23,7 +23,7 @@
   
   
 
-      <p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+     <br\><br\><br\><br\><br\><br\>
 <div id="footer">
 	<div id="footer-text">
           <p>
