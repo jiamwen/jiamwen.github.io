@@ -18,7 +18,7 @@
                 </a>
       </p>
       <p>
-         Hi, I am Jiaming Wen (文嘉明), a last-year undergraduate student in Mathematical Base Class, School of Mathematics and Statistics(MATHS), Wuhan University. Next autumn, I will become a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University, advised by  <a href="http://cse.whu.edu.cn/index.php?s=/home/szdw/detail/id/77.html">Prof Debiao He</a>.
+         Hi, I am Jiaming Wen (文嘉明), a last-year undergraduate student in Mathematical Base Class, School of Mathematics and Statistics(MATHS), Wuhan University. Next autumn, I will become a first-year academic master student in School of Cyber Science and Engineering(CSE), Wuhan University.
       
       </p>
       <p>
